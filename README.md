@@ -169,8 +169,6 @@ This project is open-source and may be used for research, learning, and non-comm
 3. Save it  
 4. Then in terminal:
    ```bash
-   git add README.md
-   git commit -m "Added detailed README with dataset and results section"
-   git push
+  
    
    
