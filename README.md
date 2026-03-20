@@ -163,12 +163,7 @@ This project is open-source and may be used for research, learning, and non-comm
 
 ---
 
-### ✅ To add it:
-1. In VS Code → **New File → name it `README.md`**
-2. Paste this content
-3. Save it  
-4. Then in terminal:
-   ```bash
+
   
    
    
